@@ -30,7 +30,6 @@ For production build:
 npm run build
 ```
 
-### Buy me a Coffee
+### Buy me a Coffee [ Received Today: 6 cups ]
 
-If you like to support this project, you can use the paypal link below:
 [![Buy Me a Coffee](buymeacoffee.png)](https://www.paypal.me/)

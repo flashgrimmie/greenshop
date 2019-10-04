@@ -5,7 +5,7 @@
   "main": "main.js",
   "scripts": {
     "start": "webpack-dev-server --config=config/webpack.dev.js",
-    "build": "NODE_ENV=production webpack --config=config/webpack.prod.js"
+    "build": "webpack --mode production --config=config/webpack.prod.js"
   },
   "keywords": [
     "reactjs",
@@ -22,6 +22,7 @@
     "react-dom": "^16.0.0",
     "react-transition-group": "^1.1.2"
   },
+  "homepage": "https://seniordev-rt96.github.io/greenshop-react-shopping-cart/",
   "devDependencies": {
     "autoprefixer": "^8.6.2",
     "babel-core": "^6.26.3",
@@ -46,6 +47,7 @@
     "webpack": "^4.12.0",
     "webpack-cli": "^3.0.3",
     "webpack-dev-server": "^3.8.2",
-    "webpack-merge": "^4.1.2"
+    "webpack-merge": "^4.1.2",
+    "gh-pages": "^1.1.0"
   }
 }
