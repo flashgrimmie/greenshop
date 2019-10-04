@@ -6,7 +6,7 @@ Simple React Shopping Cart without using Redux
 
 ## Live Demo
 
-[https://sivadass.github.io/react-shopping-cart/](https://github.com/seniordev-rt96/greenshop-react-shopping-cart)
+[https://github.com/seniordev-rt96/greenshop-react-shopping-cart/](https://github.com/seniordev-rt96/greenshop-react-shopping-cart)
 
 ## Setup
 
@@ -33,4 +33,4 @@ npm run build
 ### Buy me a Coffee
 
 If you like to support this project, you can use the paypal link below:
-[![Buy Me a Coffee](buymeacoffee.png)](https://www.paypal.me/nsivadass)
+[![Buy Me a Coffee](buymeacoffee.png)](https://www.paypal.me/)
