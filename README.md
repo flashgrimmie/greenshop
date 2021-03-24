@@ -2,10 +2,7 @@
 
 Simple React Shopping Cart without using Redux
 
-[![Github file size](https://img.shields.io/github/size/webcaetano/craft/build/phaser-craft.min.js.svg)](https://github.com/sivadass/react-shopping-cart) [![David](https://img.shields.io/david/expressjs/express.svg)](https://github.com/sivadass/react-shopping-cart)
-
 ![Screenshot](screencapture01.png)
-
 
 ## Setup
 
@@ -28,7 +25,3 @@ For production build:
 ```
 npm run build
 ```
-
-### Buy me a Coffee [ Received Today: 6 cups ]
-
-[![Buy Me a Coffee](buymeacoffee.png)](https://www.paypal.me/)
